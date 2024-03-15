@@ -30,7 +30,7 @@ DEFAULT_ALIGN_MODELS_TORCH = {
 }
 
 DEFAULT_ALIGN_MODELS_HF = {
-    "fr": "speechbrain/asr-wav2vec2-commonvoice-fr",
+    "fr": "jonatasgrosman/wav2vec2-large-fr-voxpopuli-french",
     "ja": "jonatasgrosman/wav2vec2-large-xlsr-53-japanese",
     "zh": "jonatasgrosman/wav2vec2-large-xlsr-53-chinese-zh-cn",
     "nl": "jonatasgrosman/wav2vec2-large-xlsr-53-dutch",
